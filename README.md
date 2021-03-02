@@ -1,5 +1,5 @@
-# **Practice Webpage: Parcel Tracking**
-### This is a web application for Parcel Tracking and submission
+# **Practice Webpage: Job Opening**
+### This is a web application for practice
 
  ### _Contributor(s) and Contact Info_
 > Logan Roth diamondintheroth@gmail.com - [GitHub(Lo-GR)](https://github.com/Lo-GR)
@@ -24,10 +24,10 @@ This is a practice project for practicing C#, Razor, .NET framework, and MVC for
 
 ## _Use Guide_
 
-> Repository: https://github.com/MorganJBradford/Parcels.Solution.git
+> Repository: https://github.com/Lo-GR/JobOpeningWIP.git
 1. Clone the above repository from Github.
-2. In your terminal, navigate to Parcels directory and run "dotnet build" to build application within directory. 
-3. In your terminal, while still in Parcels directory, run "dotnet run" to run application within terminal. Follow the instructions outlined in the terminal.
+2. In your terminal, navigate to Jobboard directory and run "dotnet build" to build application within directory. 
+3. In your terminal, while still in Jobboard directory, run "dotnet run" to run application within terminal. Follow the instructions outlined in the terminal.
 4. Open the project in your text editor to view the code.
 
 
